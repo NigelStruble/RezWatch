@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: RezWatch
+## Notes: Shows an icon on raid frames when a dead player is being resurrected, with who is casting it, so resurrecters don't double up.
+## Author: Vedek
+## Version: 1.0.0
+## SavedVariables: RezWatchDB
+## IconTexture: Interface\Icons\Spell_Holy_Resurrection
+
+Locales.lua
+Core.lua
+Display.lua

@@ -1,0 +1,22 @@
+# Claude Code local state
+.claude/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Backups and build leftovers
+*.bak
+*.orig
+luac.out
+
+# Release files
+*.zip
+
+# Local helper scripts (they use this machine's WoW path)
+tools/
